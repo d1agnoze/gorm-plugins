@@ -9,10 +9,12 @@ This repository collects small, focused plugins that change how GORM behaves wit
 Install the module:
 
 ```bash
-go get gorm-plugins
+go get github.com/d1agnoze/gorm-plugins
 ```
 
 Then import the plugin you want and use its API directly.
+
+Repository: https://github.com/d1agnoze/gorm-plugins
 
 ## Plugins
 

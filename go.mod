@@ -1,4 +1,4 @@
-module gorm-plugins
+module github.com/d1agnoze/gorm-plugins
 
 go 1.25.0
 

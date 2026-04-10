@@ -13,7 +13,7 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
 
-	"gorm-plugins/txtracker"
+	"github.com/d1agnoze/gorm-plugins/txtracker"
 )
 
 type testUser struct {

@@ -5,14 +5,14 @@ Transaction depth tracking and post-outermost-commit hooks for GORM v2.
 ## Installation
 
 ```bash
-go get gorm-plugins
+go get github.com/d1agnoze/gorm-plugins
 ```
 
 Use the helpers directly; no `db.Use` registration is required.
 
 ```go
 import (
-    "gorm-plugins/txtracker"
+    "github.com/d1agnoze/gorm-plugins/txtracker"
 
     "gorm.io/driver/sqlite"
     "gorm.io/gorm"
