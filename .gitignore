@@ -18,6 +18,7 @@ vendor/
 *.swo
 .vscode/
 *.code-workspace
+.opencode
 
 # Go tools and mod cache
 /go.sum
